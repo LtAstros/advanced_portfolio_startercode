@@ -10,7 +10,13 @@
 
 
 /* About Section CSS */
-
+body {
+    background-color: gainsboro;
+    color: salmon;
+}
+.border:hover {
+    background-color: black;
+}
 
 /* Portfolio Item CSS */
 
