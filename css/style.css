@@ -11,7 +11,7 @@
 /* About Section CSS */
 body {
     background-color: gainsboro;
-    color: salmon;
+    color: black;
     font-family: "Noto Sans";
 }
 .border:hover {
@@ -19,7 +19,9 @@ body {
 }
 
 /* Portfolio Item CSS */
-
+.center {
+    text-align: center;
+}
 
 
 /* Footer CSS */
